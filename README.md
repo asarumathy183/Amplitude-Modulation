@@ -102,7 +102,7 @@ Output Waveform
 
 TABULATION:
 
-![exp1 tab](https://github.com/user-attachments/assets/49891e5c-611f-4193-b8cf-b433c41c48f7)
+<img width="640" height="740" alt="image" src="https://github.com/user-attachments/assets/a3527012-7f4c-422e-922c-dfcadca02b8f" />
 
 
 Calculation
