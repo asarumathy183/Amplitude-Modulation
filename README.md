@@ -8,7 +8,7 @@ To generate and detect the amplitude modulation and demodulation u s i n g S C I
 
 EQUIPMENTS REQUIRED
 
-•	Computer with i3 Processor
+•	Computer with i3 Processor.
 
 •	SCI LAB
 
